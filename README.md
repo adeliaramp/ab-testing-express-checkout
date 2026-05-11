@@ -73,4 +73,4 @@ ab-testing-express-checkout/
 
 ---
 
-*Adelia Ramadhani | contact.adeliaramadhani@gmail.com | [adeliaramps.github.io](https://adeliaramps.github.io)*
+*Adelia Ramadhani P. | adeliaramp@gmail.com
